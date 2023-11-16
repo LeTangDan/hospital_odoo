@@ -1,4 +1,4 @@
-t = -3
+
 while t > 0:
     x = str(input("nhập chuỗi x: "))
     a = len(x)
