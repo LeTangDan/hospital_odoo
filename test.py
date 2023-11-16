@@ -18,5 +18,4 @@ while t > 0:
         print("Không đối xứng")
 
     t = int(input("Nhập số t: "))
-        
-print("Trò chơi kết thúc")
+
